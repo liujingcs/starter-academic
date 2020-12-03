@@ -6,7 +6,7 @@ title: Jing Liu
 superuser: true
 
 # Role/position
-role: Ph.D. candidate of Information Technology
+role: Ph.D. candidate
 
 # Organizations/Affiliations
 organizations:
