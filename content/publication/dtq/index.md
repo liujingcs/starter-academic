@@ -3,7 +3,7 @@
 
 title: "Deep Transferring Quantization"
 authors: [Zheng Xie*, Zhiquan Wen*, Jing Liu*, Zhiqiang Liu, Xixian Wu, Mingkui Tan]
-date: 2020-12-03T15:59:02+08:00
+date: 2020-07-18T15:59:02+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

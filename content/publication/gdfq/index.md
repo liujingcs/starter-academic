@@ -3,7 +3,7 @@
 
 title: "Generative Low-bitwidth Data Free Quantization"
 authors: [Shoukai Xu*, Haokun Li*, Bohan Zhuang*, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan ]
-date: 2020-12-03T15:58:56+08:00
+date: 2020-07-18T15:58:56+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

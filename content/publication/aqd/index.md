@@ -3,7 +3,7 @@
 
 title: "AQD: Towards Accurate Quantized Object Detection "
 authors: [Peng Chen, Jing Liu*, Bohan Zhuang, Mingkui Tan, Chunhua Shen]
-date: 2020-12-03T16:13:36+08:00
+date: 2020-11-17T15:26:17+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@
 
 title: "Discrimination-aware Network Pruning for Deep Model Compression"
 authors: [Jing Liu, Bohan Zhuang, Zhuangwei Zhuang, Yong Guo, Junzhou Huang, Jinhui Zhu, Mingkui Tan]
-date: 2020-12-03T15:54:30+08:00
+date: 2020-01-03T15:54:30+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

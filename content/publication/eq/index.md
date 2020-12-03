@@ -3,7 +3,7 @@
 
 title: "Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations "
 authors: [Bohan Zhuang*, Mingkui Tan*, Jing Liu*, Lingqiao Liu, Ian Reid, Chunhua Shen]
-date: 2020-12-03T15:45:29+08:00
+date: 2019-08-03T15:45:29+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
