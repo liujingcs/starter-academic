@@ -19,6 +19,8 @@ bio: My research interests include network compression and acceleration.
 interests:
 - Artificial Intelligence
 - Computer Vision
+- Network Compression
+- Network Acceleration
 
 education:
   courses:
