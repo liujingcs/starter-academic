@@ -26,7 +26,7 @@ education:
   courses:
   - course: Ph.D. in Artificial Intelligence
     institution: Monash University
-    year: 2021
+    year: 2021 ~ Now
   - course: M.S. in Artificial Intelligence
     institution: South China University of Technology
     year: 2017 - 2020
