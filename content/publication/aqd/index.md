@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "AQD: Towards Accurate Quantized Object Detection "
+title: "AQD: Towards Accurate Quantized Object Detection"
 authors: [Peng Chen, Jing Liu*, Bohan Zhuang, Mingkui Tan, Chunhua Shen]
 date: 2020-11-17T15:26:17+08:00
 doi: ""
