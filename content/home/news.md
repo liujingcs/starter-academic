@@ -24,6 +24,7 @@ design:
 #     color: 'navy'
 #     text_color_light: true
 ---
-
+* One journal paper was accepted by TPAMI.
+* One conference paper was accepted by CVPR 2021.
 * Two conference papers was accepted by ECCV 2020.
 * One conference paper was accepted by NeurIPS 2018.
