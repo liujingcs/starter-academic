@@ -17,12 +17,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Conference on Computer Vision and Pattern Recognition"
-publication_short: "CVPR 2021"
+publication_short: "CVPR 2021 (Oral 17%)"
 
 abstract: "Network quantization allows inference to be conducted using low-precision arithmetic for improved inference efficiency of deep neural networks on edge devices. However, designing aggressively low-bit (e.g., 2-bit) quantization schemes on complex tasks, such as object detection, still remains challenging in terms of severe performance degradation and unverifiable efficiency on common hardware. In this paper, we propose an Accurate Quantized object Detection solution, termed AQD, to fully get rid of floating-point computation. To this end, we target using fixed-point operations in all kinds of layers, including the convolutional layers, normalization layers, and skip connections, allowing the inference to be executed using integer-only arithmetic. To demonstrate the improved latency-vs-accuracy tradeoff, we apply the proposed methods on RetinaNet and FCOS. In particular, experimental results on MS-COCO dataset show that our AQD achieves comparable or even better performance compared with the full-precision counterpart under extremely low-bit schemes, which is of great practical value."
 
 # Summary. An optional shortened abstract.
-summary: "CVPR 2021"
+summary: "CVPR 2021 (Oral 17%) "
 
 tags: []
 categories: []
