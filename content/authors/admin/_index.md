@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student supervised Asst. Prof. [Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ&hl=en), Prof. [Jianfei Cai](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ) and Prof. [Chunhua Shen](http://scholar.google.com/citations?user=Ljk2BvIAAAAJ&hl=zh-CN). My research interests include network compression and acceleration. Recently, I have published some papers in ECCV and NeurIPS. I served as the reviewer for several conferences, such as MICCAI and ICPR.
+I am a Ph.D. student supervised by Asst. Prof. [Bohan Zhuang](https://scholar.google.com.au/citations?user=DFuDBBwAAAAJ&hl=en), Prof. [Jianfei Cai](https://scholar.google.com/citations?hl=en&user=N6czCoUAAAAJ) and Prof. [Chunhua Shen](http://scholar.google.com/citations?user=Ljk2BvIAAAAJ&hl=zh-CN). My research interests include network compression and acceleration. Recently, I have published some papers in ECCV and NeurIPS. I served as the reviewer for several conferences, such as MICCAI and ICPR.
