@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Discrimination-aware Channel Pruning for Deep Neural Networks"
-authors: [Zhuangwei Zhuang*, Mingkui Tan*, Bohan Zhuang*, Jing Liu*, Yong Guo, Qingyao Wu, Junzhou Huang, Jinhui Zhu]
+authors: [**Zhuangwei Zhuang**, **Mingkui Tan**, **Bohan Zhuang**, **Jing Liu**, Yong Guo, Qingyao Wu, Junzhou Huang, Jinhui Zhu]
 date: 2018-12-03T15:25:37+08:00
 doi: ""
 
